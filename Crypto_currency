@@ -1,0 +1,6 @@
+#include <iostream>  // input-output stream library
+
+int main() {
+    std::cout << "Crypto_currency_development!" << std::endl;  // output line
+    return 0;  // program ends
+}
